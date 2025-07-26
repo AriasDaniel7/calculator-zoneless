@@ -11,3 +11,7 @@ button {
 .is-number {
   @apply text-white;
 }
+
+.is-pressed {
+  @apply bg-indigo-800;
+}
